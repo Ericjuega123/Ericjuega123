@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ericjuega123
+- 👀 I’m interested in programing games.
+- 🌱 I’m currently learning java
+- 📫 How to reach me ...
